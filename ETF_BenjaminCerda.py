@@ -257,7 +257,7 @@ editor, precio, stock)
                 print("Programa finalizado")
                 break
             case _:
-                print("")
+                print("Opcion invalida")
 
 
     except Exception as e:
